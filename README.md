@@ -26,7 +26,7 @@ Then open `http://localhost:5000` in your browser.
 
 ## How it works
 
-The entire app runs as a single Flask file with four routes — `/`, `/maps`, `/food`, and `/quiz`. Each route returns a self-contained HTML page with inline CSS styling. The quiz is client-side JavaScript: questions are stored as an array of objects, and the app steps through them, compares the selected answer, shows feedback, then loads the next question after a short delay before displaying a final percentage score.
+The entire app runs as a single Flask file with four routes — `/`, `/maps`, `/food`, and `/quiz`. Each route returns a self-contained HTML page with inline CSS styling. The quiz is made with JavaScript: questions are stored as an array of objects, and the app steps through them, compares the selected answer, shows feedback, then loads the next question after a short delay before displaying a final percentage score.
 
 ## Prompt
 
@@ -36,8 +36,8 @@ Built in response to the hackathon prompt: create a solution to a historical sit
 
 - Python 3
 - Flask
-- HTML / CSS / vanilla JavaScript
-- Google Fonts (Great Vibes, Tinos)
+- HTML / CSS / JavaScript
+
 
 ## Credits
 
