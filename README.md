@@ -1,6 +1,6 @@
 # Guide to Rome
 
-An informational web app for exploring ancient Rome — its geography, cuisine, history, and a trivia quiz.
+A very basic informational web app for helping the people of ancient Rome to understand its geography and cuisine, and test their knowledge of its history through a trivia quiz.
 
 ## Try it
 
@@ -30,7 +30,7 @@ The entire app runs as a single Flask file with four routes — `/`, `/maps`, `/
 
 ## Prompt
 
-Built in response to the hackathon prompt: create a solution to a historical situation.
+Built in response to HackForsyth's 2026 hackathon prompt: create a solution to a historical situation.
 
 ## Built with
 
