@@ -1,6 +1,6 @@
 # Guide to Rome
 
-An interactive web app for exploring ancient Rome — its geography, cuisine, and history — complete with a trivia quiz.
+An informational web app for exploring ancient Rome — its geography, cuisine, history, and a trivia quiz.
 
 ## Try it
 
@@ -15,6 +15,8 @@ python hackathon.py
 
 Then open `http://localhost:5000` in your browser.
 
+Then open `http://localhost:5000` in your browser.
+
 ## Features
 
 - **Home** — landing page introducing the ancient city
@@ -26,7 +28,9 @@ Then open `http://localhost:5000` in your browser.
 
 The entire app runs as a single Flask file with four routes — `/`, `/maps`, `/food`, and `/quiz`. Each route returns a self-contained HTML page with inline CSS styling. The quiz is client-side JavaScript: questions are stored as an array of objects, and the app steps through them, compares the selected answer, shows feedback, then loads the next question after a short delay before displaying a final percentage score.
 
-The choice to keep everything in one Python file was deliberate for the hackathon context — faster iteration, nothing to import or configure, easy to hand off to teammates mid-session.
+## Prompt
+
+Built in response to the hackathon prompt: create a solution to a historical situation.
 
 ## Built with
 
@@ -37,4 +41,4 @@ The choice to keep everything in one Python file was deliberate for the hackatho
 
 ## Credits
 
-Built with two teammates during a HackForsyth's Hack Club hackathon, September 2025.
+Built with two teammates during HackForsyth's Hack Club hackathon, September 2025.
