@@ -15,8 +15,6 @@ python hackathon.py
 
 Then open `http://localhost:5000` in your browser.
 
-Then open `http://localhost:5000` in your browser.
-
 ## Features
 
 - **Home** — landing page introducing the ancient city
