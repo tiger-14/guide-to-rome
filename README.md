@@ -1,6 +1,6 @@
 # Guide to Rome
 
-A very basic informational web app for helping the people of ancient Rome to understand its geography and cuisine, and test their knowledge of its history through a trivia quiz.
+A very basic informational web app for helping the people of ancient Rome to understand its geography and cuisine, and test their knowledge of its history through a trivia quiz. This was built in September 2025.
 
 ## Try it
 
