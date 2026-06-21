@@ -4,7 +4,7 @@ A very basic informational web app for helping the people of ancient Rome to und
 
 ## Try it
 
-- Run locally — see Quick Start below.
+Run locally — see Quick Start below.
 
 ## Quick Start
 
